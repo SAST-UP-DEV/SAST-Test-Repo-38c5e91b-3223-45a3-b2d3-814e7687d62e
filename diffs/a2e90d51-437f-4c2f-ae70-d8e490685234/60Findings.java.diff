@@ -1,6 +1,4 @@
 --- original
 +++ remediated
-@@ -1,1 +1,2 @@
--N/A
-+import java.sql.PreparedStatement;
-+    // Replace the vulnerable code with the remediated code
+@@ -0,0 +0,0 @@
+ N/A
